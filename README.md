@@ -1,1 +1,0 @@
-# TNSDC-Generative-AI
